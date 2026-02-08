@@ -1,2 +1,0 @@
-# aqhub
-AQ Hub Platform
